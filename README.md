@@ -4,9 +4,9 @@ The goal of this analysis is to provide an in-depth analysis of UFO sightings by
 ## Results
 
 Users can use the "Filter Search" function as shown below in order to narrow down their results
-Screen Shot 2022-09-28 at 7.42.04 PM.png
+![Screen Shot 2022-09-28 at 7 42 04 PM](https://user-images.githubusercontent.com/106174279/192920784-53d2f373-2f7c-4f4f-98fd-ffd7e01a4bde.png)
 One does not need to enter all the filters. For example, if a city is typed in, it will show all the reported sightings from that one city. In the example below, we searched "Spring Valley."
-Screen Shot 2022-09-28 at 7.47.10 PM.png
+![Screen Shot 2022-09-28 at 7 47 10 PM](https://user-images.githubusercontent.com/106174279/192920808-4d879333-44cc-426e-ada9-9442c163093e.png)
 Deleting state or shape will update the table according to the criteria
 ## Summary
 - One drawback of the new design
